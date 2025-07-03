@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "892724988134",
+    "project_id": "proyecto-e5025",
+    "storage_bucket": "proyecto-e5025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892724988134:android:bbb372e634e253fd5b1327",
+        "android_client_info": {
+          "package_name": "mx.edu.potros.crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXcruJCCJVaA259MrWJCP2O5-3RzV64eE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
